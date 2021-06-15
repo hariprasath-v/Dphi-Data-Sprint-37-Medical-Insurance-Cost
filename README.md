@@ -1,6 +1,6 @@
 # Dphi-Data-Sprint-37-Medical-Insurance-Cost
 
-# This competition was hosted on Dphi website.
+# This competition was hosted on the Dphi website.
 
 # Overview
 ## To Estimate the individual medical costs of customers who have bought the health insurance.
